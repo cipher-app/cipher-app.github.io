@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cipher-app/cipher-app.github.io.git/static/css/main.f855e6bc.css",
-    "main.js": "/cipher-app/cipher-app.github.io.git/static/js/main.16082266.js",
-    "static/js/453.61cee8fe.chunk.js": "/cipher-app/cipher-app.github.io.git/static/js/453.61cee8fe.chunk.js",
-    "index.html": "/cipher-app/cipher-app.github.io.git/index.html",
-    "main.f855e6bc.css.map": "/cipher-app/cipher-app.github.io.git/static/css/main.f855e6bc.css.map",
-    "main.16082266.js.map": "/cipher-app/cipher-app.github.io.git/static/js/main.16082266.js.map",
-    "453.61cee8fe.chunk.js.map": "/cipher-app/cipher-app.github.io.git/static/js/453.61cee8fe.chunk.js.map"
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.9e87bfdb.js",
+    "static/js/453.61cee8fe.chunk.js": "/static/js/453.61cee8fe.chunk.js",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.9e87bfdb.js.map": "/static/js/main.9e87bfdb.js.map",
+    "453.61cee8fe.chunk.js.map": "/static/js/453.61cee8fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.16082266.js"
+    "static/js/main.9e87bfdb.js"
   ]
 }
